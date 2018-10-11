@@ -1,4 +1,4 @@
-# Angular Infinite Scroll
+# AngularJS Infinite Scroll
 
 A module that implements a directive for the infinite scroll in the window element.
 
